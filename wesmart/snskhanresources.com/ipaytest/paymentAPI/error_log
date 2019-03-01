@@ -1,0 +1,71 @@
+[04-Jan-2018 08:51:12 UTC] PHP Notice:  Undefined index: email in /home/snskhan/public_html/paymentAPI/initiate.php on line 26
+[04-Jan-2018 08:51:12 UTC] PHP Notice:  Undefined index: amount in /home/snskhan/public_html/paymentAPI/initiate.php on line 27
+[04-Jan-2018 08:51:12 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/paymentAPI/initiate.php on line 28
+[04-Jan-2018 08:51:12 UTC] PHP Notice:  Undefined index: amount in /home/snskhan/public_html/paymentAPI/initiate.php on line 31
+[04-Jan-2018 08:51:12 UTC] PHP Notice:  Undefined index: serviceTitle in /home/snskhan/public_html/paymentAPI/initiate.php on line 32
+[09-Jan-2018 21:08:21 UTC] PHP Fatal error:  Call to undefined function json_decode() in /home/snskhan/public_html/paymentAPI/functions.php on line 47
+[09-Jan-2018 21:12:32 UTC] PHP Fatal error:  Call to undefined function json_decode() in /home/snskhan/public_html/paymentAPI/functions.php on line 47
+[09-Jan-2018 21:12:49 UTC] PHP Notice:  Undefined index: email in /home/snskhan/public_html/paymentAPI/initiate.php on line 28
+[09-Jan-2018 21:12:49 UTC] PHP Notice:  Undefined index: amount in /home/snskhan/public_html/paymentAPI/initiate.php on line 29
+[09-Jan-2018 21:12:49 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/paymentAPI/initiate.php on line 30
+[09-Jan-2018 21:12:49 UTC] PHP Notice:  Undefined index: amount in /home/snskhan/public_html/paymentAPI/initiate.php on line 33
+[09-Jan-2018 21:12:49 UTC] PHP Notice:  Undefined index: serviceTitle in /home/snskhan/public_html/paymentAPI/initiate.php on line 34
+[09-Jan-2018 21:12:49 UTC] PHP Fatal error:  Call to undefined function json_decode() in /home/snskhan/public_html/paymentAPI/functions.php on line 47
+[09-Jan-2018 21:26:41 UTC] PHP Fatal error:  Call to undefined function json_decode() in /home/snskhan/public_html/paymentAPI/functions.php on line 47
+[09-Jan-2018 21:30:21 UTC] PHP Notice:  Undefined index: email in /home/snskhan/public_html/paymentAPI/initiate.php on line 28
+[09-Jan-2018 21:30:21 UTC] PHP Notice:  Undefined index: amount in /home/snskhan/public_html/paymentAPI/initiate.php on line 29
+[09-Jan-2018 21:30:21 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/paymentAPI/initiate.php on line 30
+[09-Jan-2018 21:30:21 UTC] PHP Notice:  Undefined index: amount in /home/snskhan/public_html/paymentAPI/initiate.php on line 33
+[09-Jan-2018 21:30:21 UTC] PHP Notice:  Undefined index: serviceTitle in /home/snskhan/public_html/paymentAPI/initiate.php on line 34
+[09-Jan-2018 21:30:21 UTC] PHP Fatal error:  Call to undefined function json_decode() in /home/snskhan/public_html/paymentAPI/functions.php on line 47
+[09-Jan-2018 21:30:29 UTC] PHP Notice:  Undefined index: email in /home/snskhan/public_html/paymentAPI/initiate.php on line 28
+[09-Jan-2018 21:30:29 UTC] PHP Notice:  Undefined index: amount in /home/snskhan/public_html/paymentAPI/initiate.php on line 29
+[09-Jan-2018 21:30:29 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/paymentAPI/initiate.php on line 30
+[09-Jan-2018 21:30:29 UTC] PHP Notice:  Undefined index: amount in /home/snskhan/public_html/paymentAPI/initiate.php on line 33
+[09-Jan-2018 21:30:29 UTC] PHP Notice:  Undefined index: serviceTitle in /home/snskhan/public_html/paymentAPI/initiate.php on line 34
+[09-Jan-2018 21:30:30 UTC] PHP Fatal error:  Call to undefined function json_decode() in /home/snskhan/public_html/paymentAPI/functions.php on line 47
+[09-Jan-2018 23:19:43 UTC] PHP Fatal error:  Call to undefined function json_decode() in /home/snskhan/public_html/paymentAPI/functions.php on line 47
+[09-Jan-2018 23:20:45 UTC] PHP Notice:  Undefined index: email in /home/snskhan/public_html/paymentAPI/initiate.php on line 28
+[09-Jan-2018 23:20:45 UTC] PHP Notice:  Undefined index: amount in /home/snskhan/public_html/paymentAPI/initiate.php on line 29
+[09-Jan-2018 23:20:45 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/paymentAPI/initiate.php on line 30
+[09-Jan-2018 23:20:45 UTC] PHP Notice:  Undefined index: amount in /home/snskhan/public_html/paymentAPI/initiate.php on line 33
+[09-Jan-2018 23:20:45 UTC] PHP Notice:  Undefined index: serviceTitle in /home/snskhan/public_html/paymentAPI/initiate.php on line 34
+[09-Jan-2018 23:20:45 UTC] PHP Fatal error:  Call to undefined function json_decode() in /home/snskhan/public_html/paymentAPI/functions.php on line 47
+[10-Jan-2018 04:06:53 UTC] PHP Fatal error:  Call to undefined function json_decode() in /home/snskhan/public_html/paymentAPI/functions.php on line 47
+[10-Jan-2018 04:24:12 UTC] PHP Fatal error:  Call to undefined function json_decode() in /home/snskhan/public_html/paymentAPI/functions.php on line 47
+[10-Jan-2018 04:35:59 UTC] PHP Fatal error:  Call to undefined function json_decode() in /home/snskhan/public_html/paymentAPI/functions.php on line 47
+[10-Jan-2018 04:46:18 UTC] PHP Fatal error:  Call to undefined function json_decode() in /home/snskhan/public_html/paymentAPI/functions.php on line 47
+[10-Jan-2018 04:50:10 UTC] PHP Fatal error:  Call to undefined function json_decode() in /home/snskhan/public_html/paymentAPI/functions.php on line 47
+[10-Jan-2018 05:10:08 UTC] PHP Fatal error:  Call to undefined function json_decode() in /home/snskhan/public_html/paymentAPI/functions.php on line 47
+[27-Jan-2018 13:54:23 UTC] PHP Notice:  Undefined index: email in /home/snskhan/public_html/paymentAPI/initiate.php on line 29
+[27-Jan-2018 13:54:23 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/paymentAPI/initiate.php on line 31
+[27-Jan-2018 13:54:23 UTC] PHP Notice:  Undefined index: serviceTitle in /home/snskhan/public_html/paymentAPI/initiate.php on line 35
+[27-Jan-2018 13:57:11 UTC] PHP Notice:  Undefined index: email in /home/snskhan/public_html/paymentAPI/initiate.php on line 29
+[27-Jan-2018 13:57:11 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/paymentAPI/initiate.php on line 31
+[27-Jan-2018 13:57:11 UTC] PHP Notice:  Undefined index: serviceTitle in /home/snskhan/public_html/paymentAPI/initiate.php on line 35
+[27-Jan-2018 14:46:57 UTC] PHP Notice:  Undefined index: email in /home/snskhan/public_html/paymentAPI/initiate.php on line 29
+[27-Jan-2018 14:46:57 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/paymentAPI/initiate.php on line 31
+[27-Jan-2018 14:54:16 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/paymentAPI/initiate.php on line 31
+[27-Jan-2018 14:57:23 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/paymentAPI/initiate.php on line 31
+[05-Apr-2018 12:20:45 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/paymentAPI/initiate.php on line 31
+[05-Apr-2018 12:32:03 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/paymentAPI/initiate.php on line 31
+[17-May-2018 02:07:48 UTC] PHP Notice:  Undefined index: orderid in /home/snskhan/public_html/paymentAPI/molpay.php on line 6
+[17-May-2018 02:07:48 UTC] PHP Notice:  Undefined index: amount in /home/snskhan/public_html/paymentAPI/molpay.php on line 7
+[17-May-2018 02:07:48 UTC] PHP Notice:  Undefined variable: postData in /home/snskhan/public_html/paymentAPI/molpay.php on line 16
+[17-May-2018 02:07:48 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/snskhan/public_html/paymentAPI/molpay.php on line 16
+[17-May-2018 02:10:48 UTC] PHP Notice:  Undefined index: email in /home/snskhan/public_html/paymentAPI/initiate.php on line 29
+[17-May-2018 02:10:48 UTC] PHP Notice:  Undefined index: amount in /home/snskhan/public_html/paymentAPI/initiate.php on line 30
+[17-May-2018 02:10:48 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/paymentAPI/initiate.php on line 31
+[17-May-2018 02:10:48 UTC] PHP Notice:  Undefined index: amount in /home/snskhan/public_html/paymentAPI/initiate.php on line 34
+[17-May-2018 02:10:48 UTC] PHP Notice:  Undefined index: serviceTitle in /home/snskhan/public_html/paymentAPI/initiate.php on line 35
+[18-May-2018 17:59:54 UTC] PHP Notice:  Undefined index: bill_name in /home/snskhan/public_html/ipaytest/paymentAPI/Hpay.php on line 57
+[18-May-2018 17:59:54 UTC] PHP Notice:  Undefined index: bill_email in /home/snskhan/public_html/ipaytest/paymentAPI/Hpay.php on line 58
+[18-May-2018 18:02:22 UTC] PHP Notice:  Undefined index: bill_name in /home/snskhan/public_html/ipaytest/paymentAPI/Hpay.php on line 57
+[18-May-2018 18:02:22 UTC] PHP Notice:  Undefined index: bill_email in /home/snskhan/public_html/ipaytest/paymentAPI/Hpay.php on line 58
+[18-May-2018 18:10:05 UTC] PHP Notice:  Undefined index: bill_name in /home/snskhan/public_html/ipaytest/paymentAPI/Hpay.php on line 57
+[18-May-2018 18:10:05 UTC] PHP Notice:  Undefined index: bill_email in /home/snskhan/public_html/ipaytest/paymentAPI/Hpay.php on line 58
+[18-May-2018 18:13:15 UTC] PHP Notice:  Undefined index: bill_name in /home/snskhan/public_html/ipaytest/paymentAPI/Hpay.php on line 58
+[18-May-2018 18:13:15 UTC] PHP Notice:  Undefined index: bill_email in /home/snskhan/public_html/ipaytest/paymentAPI/Hpay.php on line 59
+[18-May-2018 18:14:32 UTC] PHP Notice:  Undefined index: bill_name in /home/snskhan/public_html/ipaytest/paymentAPI/Hpay.php on line 58
+[18-May-2018 18:14:32 UTC] PHP Notice:  Undefined index: bill_email in /home/snskhan/public_html/ipaytest/paymentAPI/Hpay.php on line 59
+[18-May-2018 18:27:52 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/snskhan/public_html/ipaytest/paymentAPI/Hpay.php on line 32

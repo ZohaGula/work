@@ -1,0 +1,4 @@
+RewriteCond %{HTTP_HOST} snskhanresources\.com [NC]
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://snskhanresources.com/$1 [R,L=301]
+

@@ -1,0 +1,617 @@
+[19-May-2018 08:29:36 UTC] PHP Notice:  Undefined index: RefNo in /home/snskhan/public_html/ipaytest/response.php on line 6
+[21-May-2018 16:38:43 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[21-May-2018 16:41:23 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[28-May-2018 15:06:11 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[31-May-2018 08:53:20 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111 &quot;Connection refused&quot;) in /home/snskhan/public_html/response.php on line 19
+[31-May-2018 08:53:20 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/snskhan/public_html/response.php on line 19
+[31-May-2018 13:12:13 UTC] PHP Notice:  Undefined index: fulName in /home/snskhan/public_html/save_custOrder.php on line 18
+[31-May-2018 13:12:13 UTC] PHP Notice:  Undefined index: _date in /home/snskhan/public_html/save_custOrder.php on line 19
+[31-May-2018 13:12:13 UTC] PHP Notice:  Undefined index: amount in /home/snskhan/public_html/save_custOrder.php on line 20
+[31-May-2018 13:12:13 UTC] PHP Notice:  Undefined index: email in /home/snskhan/public_html/save_custOrder.php on line 21
+[31-May-2018 13:12:13 UTC] PHP Notice:  Undefined index: phone in /home/snskhan/public_html/save_custOrder.php on line 22
+[31-May-2018 13:12:13 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/save_custOrder.php on line 23
+[31-May-2018 13:12:13 UTC] PHP Notice:  Undefined index: Address in /home/snskhan/public_html/save_custOrder.php on line 24
+[31-May-2018 13:12:13 UTC] PHP Notice:  Undefined index: postalCOde in /home/snskhan/public_html/save_custOrder.php on line 25
+[31-May-2018 13:12:13 UTC] PHP Notice:  Undefined index: city in /home/snskhan/public_html/save_custOrder.php on line 26
+[31-May-2018 13:12:13 UTC] PHP Notice:  Undefined index: state in /home/snskhan/public_html/save_custOrder.php on line 27
+[31-May-2018 13:12:13 UTC] PHP Notice:  Undefined index: country in /home/snskhan/public_html/save_custOrder.php on line 28
+[31-May-2018 13:12:13 UTC] PHP Notice:  Undefined index: secret in /home/snskhan/public_html/save_custOrder.php on line 30
+[31-May-2018 13:12:13 UTC] PHP Notice:  Undefined index: serviceTitle in /home/snskhan/public_html/save_custOrder.php on line 31
+[31-May-2018 13:12:13 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[31-May-2018 13:13:31 UTC] PHP Notice:  Undefined index: u_name in /home/snskhan/public_html/sendEmail.php on line 3
+[31-May-2018 13:13:31 UTC] PHP Notice:  Undefined index: product in /home/snskhan/public_html/sendEmail.php on line 4
+[31-May-2018 13:13:31 UTC] PHP Notice:  Undefined index: userIP in /home/snskhan/public_html/sendEmail.php on line 5
+[31-May-2018 13:13:31 UTC] PHP Notice:  Undefined index: message in /home/snskhan/public_html/sendEmail.php on line 6
+[31-May-2018 13:13:31 UTC] PHP Notice:  Undefined index: Phone in /home/snskhan/public_html/sendEmail.php on line 7
+[31-May-2018 13:13:31 UTC] PHP Notice:  Undefined index: emailAddress in /home/snskhan/public_html/sendEmail.php on line 8
+[12-Jun-2018 23:21:08 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[26-Jun-2018 20:41:50 UTC] PHP Notice:  Undefined index: fulName in /home/snskhan/public_html/save_custOrder.php on line 18
+[26-Jun-2018 20:41:50 UTC] PHP Notice:  Undefined index: email in /home/snskhan/public_html/save_custOrder.php on line 21
+[26-Jun-2018 20:41:50 UTC] PHP Notice:  Undefined index: phone in /home/snskhan/public_html/save_custOrder.php on line 22
+[26-Jun-2018 20:41:50 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/save_custOrder.php on line 23
+[26-Jun-2018 20:41:50 UTC] PHP Notice:  Undefined index: Address in /home/snskhan/public_html/save_custOrder.php on line 24
+[26-Jun-2018 20:41:50 UTC] PHP Notice:  Undefined index: postalCOde in /home/snskhan/public_html/save_custOrder.php on line 25
+[26-Jun-2018 20:41:50 UTC] PHP Notice:  Undefined index: serviceTitle in /home/snskhan/public_html/save_custOrder.php on line 31
+[26-Jun-2018 20:41:50 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[27-Jun-2018 20:40:17 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[27-Jun-2018 21:10:57 UTC] PHP Notice:  Undefined index: fulName in /home/snskhan/public_html/save_custOrder.php on line 18
+[27-Jun-2018 21:10:57 UTC] PHP Notice:  Undefined index: email in /home/snskhan/public_html/save_custOrder.php on line 21
+[27-Jun-2018 21:10:57 UTC] PHP Notice:  Undefined index: phone in /home/snskhan/public_html/save_custOrder.php on line 22
+[27-Jun-2018 21:10:57 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/save_custOrder.php on line 23
+[27-Jun-2018 21:10:57 UTC] PHP Notice:  Undefined index: Address in /home/snskhan/public_html/save_custOrder.php on line 24
+[27-Jun-2018 21:10:57 UTC] PHP Notice:  Undefined index: postalCOde in /home/snskhan/public_html/save_custOrder.php on line 25
+[27-Jun-2018 21:10:57 UTC] PHP Notice:  Undefined index: serviceTitle in /home/snskhan/public_html/save_custOrder.php on line 31
+[27-Jun-2018 21:10:57 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[27-Jun-2018 21:11:05 UTC] PHP Notice:  Undefined index: fulName in /home/snskhan/public_html/save_custOrder.php on line 18
+[27-Jun-2018 21:11:05 UTC] PHP Notice:  Undefined index: email in /home/snskhan/public_html/save_custOrder.php on line 21
+[27-Jun-2018 21:11:05 UTC] PHP Notice:  Undefined index: phone in /home/snskhan/public_html/save_custOrder.php on line 22
+[27-Jun-2018 21:11:05 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/save_custOrder.php on line 23
+[27-Jun-2018 21:11:05 UTC] PHP Notice:  Undefined index: Address in /home/snskhan/public_html/save_custOrder.php on line 24
+[27-Jun-2018 21:11:05 UTC] PHP Notice:  Undefined index: postalCOde in /home/snskhan/public_html/save_custOrder.php on line 25
+[27-Jun-2018 21:11:05 UTC] PHP Notice:  Undefined index: serviceTitle in /home/snskhan/public_html/save_custOrder.php on line 31
+[27-Jun-2018 21:11:05 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[27-Jun-2018 21:11:06 UTC] PHP Notice:  Undefined index: fulName in /home/snskhan/public_html/save_custOrder.php on line 18
+[27-Jun-2018 21:11:06 UTC] PHP Notice:  Undefined index: email in /home/snskhan/public_html/save_custOrder.php on line 21
+[27-Jun-2018 21:11:06 UTC] PHP Notice:  Undefined index: phone in /home/snskhan/public_html/save_custOrder.php on line 22
+[27-Jun-2018 21:11:06 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/save_custOrder.php on line 23
+[27-Jun-2018 21:11:06 UTC] PHP Notice:  Undefined index: Address in /home/snskhan/public_html/save_custOrder.php on line 24
+[27-Jun-2018 21:11:06 UTC] PHP Notice:  Undefined index: postalCOde in /home/snskhan/public_html/save_custOrder.php on line 25
+[27-Jun-2018 21:11:06 UTC] PHP Notice:  Undefined index: serviceTitle in /home/snskhan/public_html/save_custOrder.php on line 31
+[27-Jun-2018 21:11:06 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[27-Jun-2018 21:11:12 UTC] PHP Notice:  Undefined index: fulName in /home/snskhan/public_html/save_custOrder.php on line 18
+[27-Jun-2018 21:11:12 UTC] PHP Notice:  Undefined index: email in /home/snskhan/public_html/save_custOrder.php on line 21
+[27-Jun-2018 21:11:12 UTC] PHP Notice:  Undefined index: phone in /home/snskhan/public_html/save_custOrder.php on line 22
+[27-Jun-2018 21:11:12 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/save_custOrder.php on line 23
+[27-Jun-2018 21:11:12 UTC] PHP Notice:  Undefined index: Address in /home/snskhan/public_html/save_custOrder.php on line 24
+[27-Jun-2018 21:11:12 UTC] PHP Notice:  Undefined index: postalCOde in /home/snskhan/public_html/save_custOrder.php on line 25
+[27-Jun-2018 21:11:12 UTC] PHP Notice:  Undefined index: serviceTitle in /home/snskhan/public_html/save_custOrder.php on line 31
+[27-Jun-2018 21:11:12 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[27-Jun-2018 21:13:26 UTC] PHP Notice:  Undefined index: fulName in /home/snskhan/public_html/save_custOrder.php on line 18
+[27-Jun-2018 21:13:26 UTC] PHP Notice:  Undefined index: email in /home/snskhan/public_html/save_custOrder.php on line 21
+[27-Jun-2018 21:13:26 UTC] PHP Notice:  Undefined index: phone in /home/snskhan/public_html/save_custOrder.php on line 22
+[27-Jun-2018 21:13:26 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/save_custOrder.php on line 23
+[27-Jun-2018 21:13:26 UTC] PHP Notice:  Undefined index: Address in /home/snskhan/public_html/save_custOrder.php on line 24
+[27-Jun-2018 21:13:26 UTC] PHP Notice:  Undefined index: postalCOde in /home/snskhan/public_html/save_custOrder.php on line 25
+[27-Jun-2018 21:13:26 UTC] PHP Notice:  Undefined index: serviceTitle in /home/snskhan/public_html/save_custOrder.php on line 31
+[27-Jun-2018 21:13:26 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[27-Jun-2018 21:13:28 UTC] PHP Notice:  Undefined index: fulName in /home/snskhan/public_html/save_custOrder.php on line 18
+[27-Jun-2018 21:13:28 UTC] PHP Notice:  Undefined index: email in /home/snskhan/public_html/save_custOrder.php on line 21
+[27-Jun-2018 21:13:28 UTC] PHP Notice:  Undefined index: phone in /home/snskhan/public_html/save_custOrder.php on line 22
+[27-Jun-2018 21:13:28 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/save_custOrder.php on line 23
+[27-Jun-2018 21:13:28 UTC] PHP Notice:  Undefined index: Address in /home/snskhan/public_html/save_custOrder.php on line 24
+[27-Jun-2018 21:13:28 UTC] PHP Notice:  Undefined index: postalCOde in /home/snskhan/public_html/save_custOrder.php on line 25
+[27-Jun-2018 21:13:28 UTC] PHP Notice:  Undefined index: serviceTitle in /home/snskhan/public_html/save_custOrder.php on line 31
+[27-Jun-2018 21:13:28 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[27-Jun-2018 21:13:30 UTC] PHP Notice:  Undefined index: fulName in /home/snskhan/public_html/save_custOrder.php on line 18
+[27-Jun-2018 21:13:30 UTC] PHP Notice:  Undefined index: email in /home/snskhan/public_html/save_custOrder.php on line 21
+[27-Jun-2018 21:13:30 UTC] PHP Notice:  Undefined index: phone in /home/snskhan/public_html/save_custOrder.php on line 22
+[27-Jun-2018 21:13:30 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/save_custOrder.php on line 23
+[27-Jun-2018 21:13:30 UTC] PHP Notice:  Undefined index: Address in /home/snskhan/public_html/save_custOrder.php on line 24
+[27-Jun-2018 21:13:30 UTC] PHP Notice:  Undefined index: postalCOde in /home/snskhan/public_html/save_custOrder.php on line 25
+[27-Jun-2018 21:13:30 UTC] PHP Notice:  Undefined index: serviceTitle in /home/snskhan/public_html/save_custOrder.php on line 31
+[27-Jun-2018 21:13:30 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[27-Jun-2018 21:13:31 UTC] PHP Notice:  Undefined index: fulName in /home/snskhan/public_html/save_custOrder.php on line 18
+[27-Jun-2018 21:13:31 UTC] PHP Notice:  Undefined index: email in /home/snskhan/public_html/save_custOrder.php on line 21
+[27-Jun-2018 21:13:31 UTC] PHP Notice:  Undefined index: phone in /home/snskhan/public_html/save_custOrder.php on line 22
+[27-Jun-2018 21:13:31 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/save_custOrder.php on line 23
+[27-Jun-2018 21:13:31 UTC] PHP Notice:  Undefined index: Address in /home/snskhan/public_html/save_custOrder.php on line 24
+[27-Jun-2018 21:13:31 UTC] PHP Notice:  Undefined index: postalCOde in /home/snskhan/public_html/save_custOrder.php on line 25
+[27-Jun-2018 21:13:31 UTC] PHP Notice:  Undefined index: serviceTitle in /home/snskhan/public_html/save_custOrder.php on line 31
+[27-Jun-2018 21:13:31 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[27-Jun-2018 21:13:32 UTC] PHP Notice:  Undefined index: fulName in /home/snskhan/public_html/save_custOrder.php on line 18
+[27-Jun-2018 21:13:32 UTC] PHP Notice:  Undefined index: email in /home/snskhan/public_html/save_custOrder.php on line 21
+[27-Jun-2018 21:13:32 UTC] PHP Notice:  Undefined index: phone in /home/snskhan/public_html/save_custOrder.php on line 22
+[27-Jun-2018 21:13:32 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/save_custOrder.php on line 23
+[27-Jun-2018 21:13:32 UTC] PHP Notice:  Undefined index: Address in /home/snskhan/public_html/save_custOrder.php on line 24
+[27-Jun-2018 21:13:32 UTC] PHP Notice:  Undefined index: postalCOde in /home/snskhan/public_html/save_custOrder.php on line 25
+[27-Jun-2018 21:13:32 UTC] PHP Notice:  Undefined index: serviceTitle in /home/snskhan/public_html/save_custOrder.php on line 31
+[27-Jun-2018 21:13:32 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[27-Jun-2018 21:26:48 UTC] PHP Notice:  Undefined index: fulName in /home/snskhan/public_html/save_custOrder.php on line 18
+[27-Jun-2018 21:26:48 UTC] PHP Notice:  Undefined index: email in /home/snskhan/public_html/save_custOrder.php on line 21
+[27-Jun-2018 21:26:48 UTC] PHP Notice:  Undefined index: phone in /home/snskhan/public_html/save_custOrder.php on line 22
+[27-Jun-2018 21:26:48 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/save_custOrder.php on line 23
+[27-Jun-2018 21:26:48 UTC] PHP Notice:  Undefined index: Address in /home/snskhan/public_html/save_custOrder.php on line 24
+[27-Jun-2018 21:26:48 UTC] PHP Notice:  Undefined index: postalCOde in /home/snskhan/public_html/save_custOrder.php on line 25
+[27-Jun-2018 21:26:48 UTC] PHP Notice:  Undefined index: serviceTitle in /home/snskhan/public_html/save_custOrder.php on line 31
+[27-Jun-2018 21:26:48 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[27-Jun-2018 21:29:24 UTC] PHP Notice:  Undefined index: fulName in /home/snskhan/public_html/save_custOrder.php on line 18
+[27-Jun-2018 21:29:24 UTC] PHP Notice:  Undefined index: email in /home/snskhan/public_html/save_custOrder.php on line 21
+[27-Jun-2018 21:29:24 UTC] PHP Notice:  Undefined index: phone in /home/snskhan/public_html/save_custOrder.php on line 22
+[27-Jun-2018 21:29:24 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/save_custOrder.php on line 23
+[27-Jun-2018 21:29:24 UTC] PHP Notice:  Undefined index: Address in /home/snskhan/public_html/save_custOrder.php on line 24
+[27-Jun-2018 21:29:24 UTC] PHP Notice:  Undefined index: postalCOde in /home/snskhan/public_html/save_custOrder.php on line 25
+[27-Jun-2018 21:29:24 UTC] PHP Notice:  Undefined index: serviceTitle in /home/snskhan/public_html/save_custOrder.php on line 31
+[27-Jun-2018 21:29:24 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[27-Jun-2018 21:29:36 UTC] PHP Notice:  Undefined index: fulName in /home/snskhan/public_html/save_custOrder.php on line 18
+[27-Jun-2018 21:29:36 UTC] PHP Notice:  Undefined index: email in /home/snskhan/public_html/save_custOrder.php on line 21
+[27-Jun-2018 21:29:36 UTC] PHP Notice:  Undefined index: phone in /home/snskhan/public_html/save_custOrder.php on line 22
+[27-Jun-2018 21:29:36 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/save_custOrder.php on line 23
+[27-Jun-2018 21:29:36 UTC] PHP Notice:  Undefined index: Address in /home/snskhan/public_html/save_custOrder.php on line 24
+[27-Jun-2018 21:29:36 UTC] PHP Notice:  Undefined index: postalCOde in /home/snskhan/public_html/save_custOrder.php on line 25
+[27-Jun-2018 21:29:36 UTC] PHP Notice:  Undefined index: serviceTitle in /home/snskhan/public_html/save_custOrder.php on line 31
+[27-Jun-2018 21:29:36 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[27-Jun-2018 21:34:19 UTC] PHP Notice:  Undefined index: fulName in /home/snskhan/public_html/save_custOrder.php on line 18
+[27-Jun-2018 21:34:19 UTC] PHP Notice:  Undefined index: email in /home/snskhan/public_html/save_custOrder.php on line 21
+[27-Jun-2018 21:34:19 UTC] PHP Notice:  Undefined index: phone in /home/snskhan/public_html/save_custOrder.php on line 22
+[27-Jun-2018 21:34:19 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/save_custOrder.php on line 23
+[27-Jun-2018 21:34:19 UTC] PHP Notice:  Undefined index: Address in /home/snskhan/public_html/save_custOrder.php on line 24
+[27-Jun-2018 21:34:19 UTC] PHP Notice:  Undefined index: postalCOde in /home/snskhan/public_html/save_custOrder.php on line 25
+[27-Jun-2018 21:34:19 UTC] PHP Notice:  Undefined index: serviceTitle in /home/snskhan/public_html/save_custOrder.php on line 31
+[27-Jun-2018 21:34:19 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[27-Jun-2018 21:34:51 UTC] PHP Notice:  Undefined index: fulName in /home/snskhan/public_html/save_custOrder.php on line 18
+[27-Jun-2018 21:34:51 UTC] PHP Notice:  Undefined index: email in /home/snskhan/public_html/save_custOrder.php on line 21
+[27-Jun-2018 21:34:51 UTC] PHP Notice:  Undefined index: phone in /home/snskhan/public_html/save_custOrder.php on line 22
+[27-Jun-2018 21:34:51 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/save_custOrder.php on line 23
+[27-Jun-2018 21:34:51 UTC] PHP Notice:  Undefined index: Address in /home/snskhan/public_html/save_custOrder.php on line 24
+[27-Jun-2018 21:34:51 UTC] PHP Notice:  Undefined index: postalCOde in /home/snskhan/public_html/save_custOrder.php on line 25
+[27-Jun-2018 21:34:51 UTC] PHP Notice:  Undefined index: serviceTitle in /home/snskhan/public_html/save_custOrder.php on line 31
+[27-Jun-2018 21:34:51 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[27-Jun-2018 21:44:56 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[27-Jun-2018 22:20:48 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[27-Jun-2018 22:26:47 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[27-Jun-2018 22:30:09 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[27-Jun-2018 22:32:56 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[29-Jun-2018 18:11:09 UTC] PHP Notice:  Undefined index: fulName in /home/snskhan/public_html/save_custOrder.php on line 18
+[29-Jun-2018 18:11:10 UTC] PHP Notice:  Undefined index: email in /home/snskhan/public_html/save_custOrder.php on line 21
+[29-Jun-2018 18:11:10 UTC] PHP Notice:  Undefined index: phone in /home/snskhan/public_html/save_custOrder.php on line 22
+[29-Jun-2018 18:11:10 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/save_custOrder.php on line 23
+[29-Jun-2018 18:11:10 UTC] PHP Notice:  Undefined index: Address in /home/snskhan/public_html/save_custOrder.php on line 24
+[29-Jun-2018 18:11:10 UTC] PHP Notice:  Undefined index: postalCOde in /home/snskhan/public_html/save_custOrder.php on line 25
+[29-Jun-2018 18:11:10 UTC] PHP Notice:  Undefined index: serviceTitle in /home/snskhan/public_html/save_custOrder.php on line 31
+[29-Jun-2018 18:11:10 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[29-Jun-2018 18:11:11 UTC] PHP Notice:  Undefined index: fulName in /home/snskhan/public_html/save_custOrder.php on line 18
+[29-Jun-2018 18:11:11 UTC] PHP Notice:  Undefined index: email in /home/snskhan/public_html/save_custOrder.php on line 21
+[29-Jun-2018 18:11:11 UTC] PHP Notice:  Undefined index: phone in /home/snskhan/public_html/save_custOrder.php on line 22
+[29-Jun-2018 18:11:11 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/save_custOrder.php on line 23
+[29-Jun-2018 18:11:11 UTC] PHP Notice:  Undefined index: Address in /home/snskhan/public_html/save_custOrder.php on line 24
+[29-Jun-2018 18:11:11 UTC] PHP Notice:  Undefined index: postalCOde in /home/snskhan/public_html/save_custOrder.php on line 25
+[29-Jun-2018 18:11:11 UTC] PHP Notice:  Undefined index: serviceTitle in /home/snskhan/public_html/save_custOrder.php on line 31
+[29-Jun-2018 18:11:11 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[29-Jun-2018 18:11:12 UTC] PHP Notice:  Undefined index: fulName in /home/snskhan/public_html/save_custOrder.php on line 18
+[29-Jun-2018 18:11:12 UTC] PHP Notice:  Undefined index: email in /home/snskhan/public_html/save_custOrder.php on line 21
+[29-Jun-2018 18:11:12 UTC] PHP Notice:  Undefined index: phone in /home/snskhan/public_html/save_custOrder.php on line 22
+[29-Jun-2018 18:11:12 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/save_custOrder.php on line 23
+[29-Jun-2018 18:11:12 UTC] PHP Notice:  Undefined index: Address in /home/snskhan/public_html/save_custOrder.php on line 24
+[29-Jun-2018 18:11:12 UTC] PHP Notice:  Undefined index: postalCOde in /home/snskhan/public_html/save_custOrder.php on line 25
+[29-Jun-2018 18:11:12 UTC] PHP Notice:  Undefined index: serviceTitle in /home/snskhan/public_html/save_custOrder.php on line 31
+[29-Jun-2018 18:11:12 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[29-Jun-2018 18:11:13 UTC] PHP Notice:  Undefined index: fulName in /home/snskhan/public_html/save_custOrder.php on line 18
+[29-Jun-2018 18:11:13 UTC] PHP Notice:  Undefined index: email in /home/snskhan/public_html/save_custOrder.php on line 21
+[29-Jun-2018 18:11:13 UTC] PHP Notice:  Undefined index: phone in /home/snskhan/public_html/save_custOrder.php on line 22
+[29-Jun-2018 18:11:13 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/save_custOrder.php on line 23
+[29-Jun-2018 18:11:13 UTC] PHP Notice:  Undefined index: Address in /home/snskhan/public_html/save_custOrder.php on line 24
+[29-Jun-2018 18:11:13 UTC] PHP Notice:  Undefined index: postalCOde in /home/snskhan/public_html/save_custOrder.php on line 25
+[29-Jun-2018 18:11:13 UTC] PHP Notice:  Undefined index: serviceTitle in /home/snskhan/public_html/save_custOrder.php on line 31
+[29-Jun-2018 18:11:13 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[29-Jun-2018 18:11:16 UTC] PHP Notice:  Undefined index: fulName in /home/snskhan/public_html/save_custOrder.php on line 18
+[29-Jun-2018 18:11:16 UTC] PHP Notice:  Undefined index: email in /home/snskhan/public_html/save_custOrder.php on line 21
+[29-Jun-2018 18:11:16 UTC] PHP Notice:  Undefined index: phone in /home/snskhan/public_html/save_custOrder.php on line 22
+[29-Jun-2018 18:11:16 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/save_custOrder.php on line 23
+[29-Jun-2018 18:11:16 UTC] PHP Notice:  Undefined index: Address in /home/snskhan/public_html/save_custOrder.php on line 24
+[29-Jun-2018 18:11:16 UTC] PHP Notice:  Undefined index: postalCOde in /home/snskhan/public_html/save_custOrder.php on line 25
+[29-Jun-2018 18:11:16 UTC] PHP Notice:  Undefined index: serviceTitle in /home/snskhan/public_html/save_custOrder.php on line 31
+[29-Jun-2018 18:11:16 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[29-Jun-2018 19:19:26 UTC] PHP Notice:  Undefined index: fulName in /home/snskhan/public_html/save_custOrder.php on line 18
+[29-Jun-2018 19:19:26 UTC] PHP Notice:  Undefined index: email in /home/snskhan/public_html/save_custOrder.php on line 21
+[29-Jun-2018 19:19:26 UTC] PHP Notice:  Undefined index: phone in /home/snskhan/public_html/save_custOrder.php on line 22
+[29-Jun-2018 19:19:26 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/save_custOrder.php on line 23
+[29-Jun-2018 19:19:26 UTC] PHP Notice:  Undefined index: Address in /home/snskhan/public_html/save_custOrder.php on line 24
+[29-Jun-2018 19:19:26 UTC] PHP Notice:  Undefined index: postalCOde in /home/snskhan/public_html/save_custOrder.php on line 25
+[29-Jun-2018 19:19:26 UTC] PHP Notice:  Undefined index: serviceTitle in /home/snskhan/public_html/save_custOrder.php on line 31
+[29-Jun-2018 19:19:26 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[29-Jun-2018 19:19:30 UTC] PHP Notice:  Undefined index: fulName in /home/snskhan/public_html/save_custOrder.php on line 18
+[29-Jun-2018 19:19:30 UTC] PHP Notice:  Undefined index: email in /home/snskhan/public_html/save_custOrder.php on line 21
+[29-Jun-2018 19:19:30 UTC] PHP Notice:  Undefined index: phone in /home/snskhan/public_html/save_custOrder.php on line 22
+[29-Jun-2018 19:19:30 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/save_custOrder.php on line 23
+[29-Jun-2018 19:19:30 UTC] PHP Notice:  Undefined index: Address in /home/snskhan/public_html/save_custOrder.php on line 24
+[29-Jun-2018 19:19:30 UTC] PHP Notice:  Undefined index: postalCOde in /home/snskhan/public_html/save_custOrder.php on line 25
+[29-Jun-2018 19:19:30 UTC] PHP Notice:  Undefined index: serviceTitle in /home/snskhan/public_html/save_custOrder.php on line 31
+[29-Jun-2018 19:19:30 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[30-Jun-2018 13:31:28 UTC] PHP Notice:  Undefined index: fulName in /home/snskhan/public_html/save_custOrder.php on line 18
+[30-Jun-2018 13:31:28 UTC] PHP Notice:  Undefined index: email in /home/snskhan/public_html/save_custOrder.php on line 21
+[30-Jun-2018 13:31:28 UTC] PHP Notice:  Undefined index: phone in /home/snskhan/public_html/save_custOrder.php on line 22
+[30-Jun-2018 13:31:28 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/save_custOrder.php on line 23
+[30-Jun-2018 13:31:28 UTC] PHP Notice:  Undefined index: Address in /home/snskhan/public_html/save_custOrder.php on line 24
+[30-Jun-2018 13:31:28 UTC] PHP Notice:  Undefined index: postalCOde in /home/snskhan/public_html/save_custOrder.php on line 25
+[30-Jun-2018 13:31:28 UTC] PHP Notice:  Undefined index: serviceTitle in /home/snskhan/public_html/save_custOrder.php on line 31
+[30-Jun-2018 13:31:28 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[30-Jun-2018 13:31:44 UTC] PHP Notice:  Undefined index: fulName in /home/snskhan/public_html/save_custOrder.php on line 18
+[30-Jun-2018 13:31:44 UTC] PHP Notice:  Undefined index: email in /home/snskhan/public_html/save_custOrder.php on line 21
+[30-Jun-2018 13:31:44 UTC] PHP Notice:  Undefined index: phone in /home/snskhan/public_html/save_custOrder.php on line 22
+[30-Jun-2018 13:31:44 UTC] PHP Notice:  Undefined index: currencyCode in /home/snskhan/public_html/save_custOrder.php on line 23
+[30-Jun-2018 13:31:44 UTC] PHP Notice:  Undefined index: Address in /home/snskhan/public_html/save_custOrder.php on line 24
+[30-Jun-2018 13:31:44 UTC] PHP Notice:  Undefined index: postalCOde in /home/snskhan/public_html/save_custOrder.php on line 25
+[30-Jun-2018 13:31:44 UTC] PHP Notice:  Undefined index: serviceTitle in /home/snskhan/public_html/save_custOrder.php on line 31
+[30-Jun-2018 13:31:44 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[01-Jul-2018 17:32:20 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[01-Jul-2018 18:01:34 UTC] PHP Notice:  Undefined index: paymentGateway in /home/snskhan/public_html/save_custOrder.php on line 32
+[16-Jul-2018 18:23:32 UTC] PHP Notice:  Undefined property: stdClass::$message in /home/snskhan/public_html/worldPaymentsCorpResponse.php on line 58
+[17-Jul-2018 13:29:58 UTC] PHP Notice:  Undefined property: stdClass::$message in /home/snskhan/public_html/worldPaymentsCorpResponse.php on line 58
+[25-Jul-2018 18:57:55 UTC] PHP Notice:  Undefined property: stdClass::$message in /home/snskhan/public_html/worldPaymentsCorpResponse.php on line 58
+[13-Nov-2018 11:15:19 UTC] PHP Notice:  Undefined index: RefNo in /home/snskhan/public_html/response.php on line 6
+[03-Dec-2018 16:16:46 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'snskhan_dbuser'@'localhost' (using password: YES) in /home/wesmartify/public_html/snskhanresources.com/database_connection.php:5
+Stack trace:
+#0 /home/wesmartify/public_html/snskhanresources.com/database_connection.php(5): PDO->__construct('mysql:host=loca...', 'snskhan_dbuser', 'snskhan_dbuser1...')
+#1 /home/wesmartify/public_html/snskhanresources.com/index.php(6): include('/home/wesmartif...')
+#2 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/database_connection.php on line 5
+[03-Dec-2018 16:16:46 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'snskhan_dbuser'@'localhost' (using password: YES) in /home/wesmartify/public_html/snskhanresources.com/database_connection.php:5
+Stack trace:
+#0 /home/wesmartify/public_html/snskhanresources.com/database_connection.php(5): PDO->__construct('mysql:host=loca...', 'snskhan_dbuser', 'snskhan_dbuser1...')
+#1 /home/wesmartify/public_html/snskhanresources.com/index.php(6): include('/home/wesmartif...')
+#2 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/database_connection.php on line 5
+[03-Dec-2018 16:16:52 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'snskhan_dbuser'@'localhost' (using password: YES) in /home/wesmartify/public_html/snskhanresources.com/database_connection.php:5
+Stack trace:
+#0 /home/wesmartify/public_html/snskhanresources.com/database_connection.php(5): PDO->__construct('mysql:host=loca...', 'snskhan_dbuser', 'snskhan_dbuser1...')
+#1 /home/wesmartify/public_html/snskhanresources.com/index.php(6): include('/home/wesmartif...')
+#2 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/database_connection.php on line 5
+[03-Dec-2018 16:16:53 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'snskhan_dbuser'@'localhost' (using password: YES) in /home/wesmartify/public_html/snskhanresources.com/database_connection.php:5
+Stack trace:
+#0 /home/wesmartify/public_html/snskhanresources.com/database_connection.php(5): PDO->__construct('mysql:host=loca...', 'snskhan_dbuser', 'snskhan_dbuser1...')
+#1 /home/wesmartify/public_html/snskhanresources.com/index.php(6): include('/home/wesmartif...')
+#2 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/database_connection.php on line 5
+[03-Dec-2018 16:16:55 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'snskhan_dbuser'@'localhost' (using password: YES) in /home/wesmartify/public_html/snskhanresources.com/database_connection.php:5
+Stack trace:
+#0 /home/wesmartify/public_html/snskhanresources.com/database_connection.php(5): PDO->__construct('mysql:host=loca...', 'snskhan_dbuser', 'snskhan_dbuser1...')
+#1 /home/wesmartify/public_html/snskhanresources.com/index.php(6): include('/home/wesmartif...')
+#2 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/database_connection.php on line 5
+[03-Dec-2018 16:17:47 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'snskhan_dbuser'@'localhost' (using password: YES) in /home/wesmartify/public_html/snskhanresources.com/database_connection.php:5
+Stack trace:
+#0 /home/wesmartify/public_html/snskhanresources.com/database_connection.php(5): PDO->__construct('mysql:host=loca...', 'snskhan_dbuser', 'snskhan_dbuser1...')
+#1 /home/wesmartify/public_html/snskhanresources.com/index.php(6): include('/home/wesmartif...')
+#2 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/database_connection.php on line 5
+[03-Dec-2018 16:17:55 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'snskhan_dbuser'@'localhost' (using password: YES) in /home/wesmartify/public_html/snskhanresources.com/database_connection.php:5
+Stack trace:
+#0 /home/wesmartify/public_html/snskhanresources.com/database_connection.php(5): PDO->__construct('mysql:host=loca...', 'snskhan_dbuser', 'snskhan_dbuser1...')
+#1 /home/wesmartify/public_html/snskhanresources.com/index.php(6): include('/home/wesmartif...')
+#2 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/database_connection.php on line 5
+[03-Dec-2018 16:18:13 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'snskhan_dbuser'@'localhost' (using password: YES) in /home/wesmartify/public_html/snskhanresources.com/database_connection.php:5
+Stack trace:
+#0 /home/wesmartify/public_html/snskhanresources.com/database_connection.php(5): PDO->__construct('mysql:host=loca...', 'snskhan_dbuser', 'snskhan_dbuser1...')
+#1 /home/wesmartify/public_html/snskhanresources.com/index.php(6): include('/home/wesmartif...')
+#2 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/database_connection.php on line 5
+[03-Dec-2018 16:18:27 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'snskhan_dbuser'@'localhost' (using password: YES) in /home/wesmartify/public_html/snskhanresources.com/database_connection.php:5
+Stack trace:
+#0 /home/wesmartify/public_html/snskhanresources.com/database_connection.php(5): PDO->__construct('mysql:host=loca...', 'snskhan_dbuser', 'snskhan_dbuser1...')
+#1 /home/wesmartify/public_html/snskhanresources.com/index.php(6): include('/home/wesmartif...')
+#2 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/database_connection.php on line 5
+[03-Dec-2018 16:18:32 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'snskhan_dbuser'@'localhost' (using password: YES) in /home/wesmartify/public_html/snskhanresources.com/database_connection.php:5
+Stack trace:
+#0 /home/wesmartify/public_html/snskhanresources.com/database_connection.php(5): PDO->__construct('mysql:host=loca...', 'snskhan_dbuser', 'snskhan_dbuser1...')
+#1 /home/wesmartify/public_html/snskhanresources.com/index.php(6): include('/home/wesmartif...')
+#2 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/database_connection.php on line 5
+[03-Dec-2018 16:19:34 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'snskhan_dbuser'@'localhost' (using password: YES) in /home/wesmartify/public_html/snskhanresources.com/database_connection.php:5
+Stack trace:
+#0 /home/wesmartify/public_html/snskhanresources.com/database_connection.php(5): PDO->__construct('mysql:host=loca...', 'snskhan_dbuser', 'snskhan_dbuser1...')
+#1 /home/wesmartify/public_html/snskhanresources.com/index.php(6): include('/home/wesmartif...')
+#2 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/database_connection.php on line 5
+[03-Dec-2018 16:22:06 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'snskhan_dbuser'@'localhost' (using password: YES) in /home/wesmartify/public_html/snskhanresources.com/database_connection.php:5
+Stack trace:
+#0 /home/wesmartify/public_html/snskhanresources.com/database_connection.php(5): PDO->__construct('mysql:host=loca...', 'snskhan_dbuser', 'snskhan_dbuser1...')
+#1 /home/wesmartify/public_html/snskhanresources.com/index.php(6): include('/home/wesmartif...')
+#2 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/database_connection.php on line 5
+[03-Dec-2018 16:22:06 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'snskhan_dbuser'@'localhost' (using password: YES) in /home/wesmartify/public_html/snskhanresources.com/database_connection.php:5
+Stack trace:
+#0 /home/wesmartify/public_html/snskhanresources.com/database_connection.php(5): PDO->__construct('mysql:host=loca...', 'snskhan_dbuser', 'snskhan_dbuser1...')
+#1 /home/wesmartify/public_html/snskhanresources.com/index.php(6): include('/home/wesmartif...')
+#2 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/database_connection.php on line 5
+[03-Dec-2018 16:22:12 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'snskhan_dbuser'@'localhost' (using password: YES) in /home/wesmartify/public_html/snskhanresources.com/database_connection.php:5
+Stack trace:
+#0 /home/wesmartify/public_html/snskhanresources.com/database_connection.php(5): PDO->__construct('mysql:host=loca...', 'snskhan_dbuser', 'snskhan_dbuser1...')
+#1 /home/wesmartify/public_html/snskhanresources.com/index.php(6): include('/home/wesmartif...')
+#2 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/database_connection.php on line 5
+[03-Dec-2018 16:22:31 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'snskhan_dbuser'@'localhost' (using password: YES) in /home/wesmartify/public_html/snskhanresources.com/database_connection.php:5
+Stack trace:
+#0 /home/wesmartify/public_html/snskhanresources.com/database_connection.php(5): PDO->__construct('mysql:host=loca...', 'snskhan_dbuser', 'snskhan_dbuser1...')
+#1 /home/wesmartify/public_html/snskhanresources.com/index.php(6): include('/home/wesmartif...')
+#2 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/database_connection.php on line 5
+[03-Dec-2018 16:25:37 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'snskhan_dbuser'@'localhost' (using password: YES) in /home/wesmartify/public_html/snskhanresources.com/database_connection.php:5
+Stack trace:
+#0 /home/wesmartify/public_html/snskhanresources.com/database_connection.php(5): PDO->__construct('mysql:host=loca...', 'snskhan_dbuser', 'snskhan_dbuser1...')
+#1 /home/wesmartify/public_html/snskhanresources.com/index.php(6): include('/home/wesmartif...')
+#2 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/database_connection.php on line 5
+[03-Dec-2018 16:27:06 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'snskhan_dbuser'@'localhost' (using password: YES) in /home/wesmartify/public_html/snskhanresources.com/database_connection.php:5
+Stack trace:
+#0 /home/wesmartify/public_html/snskhanresources.com/database_connection.php(5): PDO->__construct('mysql:host=loca...', 'snskhan_dbuser', 'snskhan_dbuser1...')
+#1 /home/wesmartify/public_html/snskhanresources.com/index.php(6): include('/home/wesmartif...')
+#2 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/database_connection.php on line 5
+[03-Dec-2018 16:27:08 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'snskhan_dbuser'@'localhost' (using password: YES) in /home/wesmartify/public_html/snskhanresources.com/database_connection.php:5
+Stack trace:
+#0 /home/wesmartify/public_html/snskhanresources.com/database_connection.php(5): PDO->__construct('mysql:host=loca...', 'snskhan_dbuser', 'snskhan_dbuser1...')
+#1 /home/wesmartify/public_html/snskhanresources.com/index.php(6): include('/home/wesmartif...')
+#2 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/database_connection.php on line 5
+[03-Dec-2018 16:28:51 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'wesmarti_user'@'localhost' to database 'wesmarti_sns_db' in /home/wesmartify/public_html/snskhanresources.com/database_connection.php:5
+Stack trace:
+#0 /home/wesmartify/public_html/snskhanresources.com/database_connection.php(5): PDO->__construct('mysql:host=loca...', 'wesmarti_user', 'wesmartifytblda...')
+#1 /home/wesmartify/public_html/snskhanresources.com/index.php(6): include('/home/wesmartif...')
+#2 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/database_connection.php on line 5
+[03-Dec-2018 16:28:54 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'wesmarti_user'@'localhost' to database 'wesmarti_sns_db' in /home/wesmartify/public_html/snskhanresources.com/database_connection.php:5
+Stack trace:
+#0 /home/wesmartify/public_html/snskhanresources.com/database_connection.php(5): PDO->__construct('mysql:host=loca...', 'wesmarti_user', 'wesmartifytblda...')
+#1 /home/wesmartify/public_html/snskhanresources.com/index.php(6): include('/home/wesmartif...')
+#2 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/database_connection.php on line 5
+[03-Dec-2018 16:35:36 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'wesmarti_snsUser'@'localhost' to database 'wesmarti_sns_Db' in /home/wesmartify/public_html/snskhanresources.com/database_connection.php:5
+Stack trace:
+#0 /home/wesmartify/public_html/snskhanresources.com/database_connection.php(5): PDO->__construct('mysql:host=loca...', 'wesmarti_snsUse...', 'snskhan@321')
+#1 /home/wesmartify/public_html/snskhanresources.com/index.php(6): include('/home/wesmartif...')
+#2 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/database_connection.php on line 5
+[03-Dec-2018 16:35:42 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'wesmarti_snsUser'@'localhost' to database 'wesmarti_sns_Db' in /home/wesmartify/public_html/snskhanresources.com/database_connection.php:5
+Stack trace:
+#0 /home/wesmartify/public_html/snskhanresources.com/database_connection.php(5): PDO->__construct('mysql:host=loca...', 'wesmarti_snsUse...', 'snskhan@321')
+#1 /home/wesmartify/public_html/snskhanresources.com/index.php(6): include('/home/wesmartif...')
+#2 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/database_connection.php on line 5
+[03-Dec-2018 16:35:44 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'wesmarti_snsUser'@'localhost' to database 'wesmarti_sns_Db' in /home/wesmartify/public_html/snskhanresources.com/database_connection.php:5
+Stack trace:
+#0 /home/wesmartify/public_html/snskhanresources.com/database_connection.php(5): PDO->__construct('mysql:host=loca...', 'wesmarti_snsUse...', 'snskhan@321')
+#1 /home/wesmartify/public_html/snskhanresources.com/index.php(6): include('/home/wesmartif...')
+#2 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/database_connection.php on line 5
+[03-Dec-2018 16:39:49 Asia/Kuala_Lumpur] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'snskhan_dbuser'@'localhost' (using password: YES) in /home/wesmartify/public_html/snskhanresources.com/check_secret_key.php on line 4
+[03-Dec-2018 16:39:49 Asia/Kuala_Lumpur] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/wesmartify/public_html/snskhanresources.com/check_secret_key.php on line 4
+[03-Dec-2018 16:43:29 Asia/Kuala_Lumpur] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'snskhan_dbuser'@'localhost' (using password: YES) in /home/wesmartify/public_html/snskhanresources.com/check_secret_key.php on line 4
+[03-Dec-2018 16:43:29 Asia/Kuala_Lumpur] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/wesmartify/public_html/snskhanresources.com/check_secret_key.php on line 4
+[03-Dec-2018 16:46:29 Asia/Kuala_Lumpur] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'snskhan_dbuser'@'localhost' (using password: YES) in /home/wesmartify/public_html/snskhanresources.com/check_secret_key.php on line 4
+[03-Dec-2018 16:46:29 Asia/Kuala_Lumpur] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/wesmartify/public_html/snskhanresources.com/check_secret_key.php on line 4
+[03-Dec-2018 16:46:39 Asia/Kuala_Lumpur] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'snskhan_dbuser'@'localhost' (using password: YES) in /home/wesmartify/public_html/snskhanresources.com/check_secret_key.php on line 4
+[03-Dec-2018 16:46:39 Asia/Kuala_Lumpur] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/wesmartify/public_html/snskhanresources.com/check_secret_key.php on line 4
+[06-Dec-2018 14:57:26 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/wesmartify/public_html/snskhanresources.com/fetch_item.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/fetch_item.php on line 2
+[06-Dec-2018 14:58:24 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/wesmartify/public_html/snskhanresources.com/fetch_item.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/fetch_item.php on line 2
+[06-Dec-2018 15:05:26 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/wesmartify/public_html/snskhanresources.com/fetch_item.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/fetch_item.php on line 2
+[06-Dec-2018 15:06:42 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/wesmartify/public_html/snskhanresources.com/fetch_item.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/fetch_item.php on line 2
+[06-Dec-2018 15:06:51 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/wesmartify/public_html/snskhanresources.com/fetch_item.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/fetch_item.php on line 2
+[06-Dec-2018 15:08:27 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/wesmartify/public_html/snskhanresources.com/fetch_item.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/fetch_item.php on line 2
+[06-Dec-2018 15:09:20 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/wesmartify/public_html/snskhanresources.com/fetch_item.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/fetch_item.php on line 2
+[06-Dec-2018 15:12:22 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/wesmartify/public_html/snskhanresources.com/fetch_item.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/fetch_item.php on line 2
+[12-Dec-2018 16:05:52 Asia/Kuala_Lumpur] PHP Warning:  include(vendor/autoload.php): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 2
+[12-Dec-2018 16:05:52 Asia/Kuala_Lumpur] PHP Warning:  include(vendor/autoload.php): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 2
+[12-Dec-2018 16:05:52 Asia/Kuala_Lumpur] PHP Warning:  include(): Failed opening 'vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 2
+[12-Dec-2018 16:05:52 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/wesmartify/public_html/snskhanresources.com/testemail.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 3
+[12-Dec-2018 16:05:54 Asia/Kuala_Lumpur] PHP Warning:  include(vendor/autoload.php): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 2
+[12-Dec-2018 16:05:54 Asia/Kuala_Lumpur] PHP Warning:  include(vendor/autoload.php): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 2
+[12-Dec-2018 16:05:54 Asia/Kuala_Lumpur] PHP Warning:  include(): Failed opening 'vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 2
+[12-Dec-2018 16:05:54 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/wesmartify/public_html/snskhanresources.com/testemail.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 3
+[12-Dec-2018 16:21:37 Asia/Kuala_Lumpur] PHP Warning:  include(vendor/autoload.php): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 2
+[12-Dec-2018 16:21:37 Asia/Kuala_Lumpur] PHP Warning:  include(vendor/autoload.php): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 2
+[12-Dec-2018 16:21:37 Asia/Kuala_Lumpur] PHP Warning:  include(): Failed opening 'vendor/autoload.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 2
+[12-Dec-2018 16:21:37 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/wesmartify/public_html/snskhanresources.com/testemail.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 3
+[12-Dec-2018 16:25:18 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 40
+[12-Dec-2018 16:25:20 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 40
+[12-Dec-2018 16:25:45 Asia/Kuala_Lumpur] PHP Warning:  require(PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 2
+[12-Dec-2018 16:25:45 Asia/Kuala_Lumpur] PHP Warning:  require(PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 2
+[12-Dec-2018 16:25:45 Asia/Kuala_Lumpur] PHP Fatal error:  require(): Failed opening required 'PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 2
+[12-Dec-2018 16:25:47 Asia/Kuala_Lumpur] PHP Warning:  require(PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 2
+[12-Dec-2018 16:25:47 Asia/Kuala_Lumpur] PHP Warning:  require(PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 2
+[12-Dec-2018 16:25:47 Asia/Kuala_Lumpur] PHP Fatal error:  require(): Failed opening required 'PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 2
+[12-Dec-2018 16:25:50 Asia/Kuala_Lumpur] PHP Warning:  require(PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 2
+[12-Dec-2018 16:25:50 Asia/Kuala_Lumpur] PHP Warning:  require(PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 2
+[12-Dec-2018 16:25:50 Asia/Kuala_Lumpur] PHP Fatal error:  require(): Failed opening required 'PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 2
+[12-Dec-2018 16:30:42 Asia/Kuala_Lumpur] PHP Warning:  require(PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 2
+[12-Dec-2018 16:30:42 Asia/Kuala_Lumpur] PHP Warning:  require(PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 2
+[12-Dec-2018 16:30:42 Asia/Kuala_Lumpur] PHP Fatal error:  require(): Failed opening required 'PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 2
+[12-Dec-2018 16:32:42 Asia/Kuala_Lumpur] PHP Warning:  file_get_contents(attachment.zip): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 16
+[12-Dec-2018 16:33:24 Asia/Kuala_Lumpur] PHP Warning:  file_get_contents(attachment.zip): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 16
+[12-Dec-2018 16:33:27 Asia/Kuala_Lumpur] PHP Warning:  file_get_contents(attachment.zip): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 16
+[12-Dec-2018 16:34:03 Asia/Kuala_Lumpur] PHP Warning:  file_get_contents(attachment.zip): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 16
+[12-Dec-2018 16:35:02 Asia/Kuala_Lumpur] PHP Warning:  file_get_contents(attachment.zip): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 16
+[12-Dec-2018 16:39:18 Asia/Kuala_Lumpur] PHP Warning:  file_get_contents(attachment.zip): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 16
+[12-Dec-2018 16:56:41 Asia/Kuala_Lumpur] PHP Warning:  file_get_contents(attachment.zip): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 16
+[12-Dec-2018 17:01:33 Asia/Kuala_Lumpur] PHP Warning:  file_get_contents(files/CAPS-Standing-Order.pdf): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 2
+[12-Dec-2018 17:01:33 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/wesmartify/public_html/snskhanresources.com/testemail.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 12
+[12-Dec-2018 17:01:37 Asia/Kuala_Lumpur] PHP Warning:  file_get_contents(files/CAPS-Standing-Order.pdf): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 2
+[12-Dec-2018 17:01:37 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/wesmartify/public_html/snskhanresources.com/testemail.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 12
+[12-Dec-2018 17:02:15 Asia/Kuala_Lumpur] PHP Warning:  file_get_contents(files/CAPS-Standing-Order.pdf): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 71
+[12-Dec-2018 17:02:15 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/wesmartify/public_html/snskhanresources.com/testemail.php:81
+Stack trace:
+#0 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 81
+[12-Dec-2018 17:02:17 Asia/Kuala_Lumpur] PHP Warning:  file_get_contents(files/CAPS-Standing-Order.pdf): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 71
+[12-Dec-2018 17:02:17 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/wesmartify/public_html/snskhanresources.com/testemail.php:81
+Stack trace:
+#0 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 81
+[12-Dec-2018 17:03:04 Asia/Kuala_Lumpur] PHP Warning:  file_get_contents(attachment.zip): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 16
+[12-Dec-2018 17:04:02 Asia/Kuala_Lumpur] PHP Warning:  file_get_contents(attachment.zip): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 16
+[12-Dec-2018 17:23:35 Asia/Kuala_Lumpur] PHP Warning:  file_get_contents(attachment.zip): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 16
+[12-Dec-2018 17:23:36 Asia/Kuala_Lumpur] PHP Warning:  file_get_contents(attachment.zip): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 16
+[12-Dec-2018 17:24:57 Asia/Kuala_Lumpur] PHP Warning:  file_get_contents(attachment.zip): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 16
+[12-Dec-2018 17:26:40 Asia/Kuala_Lumpur] PHP Warning:  file_get_contents(attachment.zip): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 16
+[12-Dec-2018 17:28:10 Asia/Kuala_Lumpur] PHP Warning:  file_get_contents(attachment.zip): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 16
+[12-Dec-2018 17:57:20 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to undefined function output() in /home/wesmartify/public_html/snskhanresources.com/testemail.php:449
+Stack trace:
+#0 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 449
+[12-Dec-2018 17:58:49 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to undefined function output() in /home/wesmartify/public_html/snskhanresources.com/testemail.php:451
+Stack trace:
+#0 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 451
+[12-Dec-2018 17:58:51 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to undefined function output() in /home/wesmartify/public_html/snskhanresources.com/testemail.php:451
+Stack trace:
+#0 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 451
+[12-Dec-2018 17:58:55 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to undefined function output() in /home/wesmartify/public_html/snskhanresources.com/testemail.php:451
+Stack trace:
+#0 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 451
+[12-Dec-2018 17:59:35 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to undefined function output() in /home/wesmartify/public_html/snskhanresources.com/testemail.php:451
+Stack trace:
+#0 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 451
+[12-Dec-2018 18:03:39 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to undefined function output() in /home/wesmartify/public_html/snskhanresources.com/testemail.php:451
+Stack trace:
+#0 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 451
+[12-Dec-2018 18:07:06 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to undefined function output() in /home/wesmartify/public_html/snskhanresources.com/testemail.php:451
+Stack trace:
+#0 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 451
+[12-Dec-2018 18:19:50 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '$subject' (T_VARIABLE) in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 455
+[12-Dec-2018 18:19:53 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '$subject' (T_VARIABLE) in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 455
+[12-Dec-2018 18:20:25 Asia/Kuala_Lumpur] PHP Warning:  log() expects parameter 1 to be float, array given in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 454
+[12-Dec-2018 18:33:51 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 451
+[12-Dec-2018 18:34:40 Asia/Kuala_Lumpur] PHP Warning:  file_get_contents(attachment.zip): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 415
+[12-Dec-2018 18:35:49 Asia/Kuala_Lumpur] PHP Warning:  file_get_contents(attachment.zip): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 416
+[12-Dec-2018 18:37:25 Asia/Kuala_Lumpur] PHP Warning:  file_get_contents(attachment.zip): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 413
+[17-Dec-2018 15:26:05 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '$status' (T_VARIABLE) in /home/wesmartify/public_html/snskhanresources.com/molpayresponce.php on line 32
+[17-Dec-2018 15:26:07 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '$status' (T_VARIABLE) in /home/wesmartify/public_html/snskhanresources.com/molpayresponce.php on line 32
+[17-Dec-2018 15:26:09 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '$status' (T_VARIABLE) in /home/wesmartify/public_html/snskhanresources.com/molpayresponce.php on line 32
+[17-Dec-2018 15:26:13 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '$status' (T_VARIABLE) in /home/wesmartify/public_html/snskhanresources.com/molpayresponce.php on line 32
+[17-Dec-2018 15:26:16 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '$status' (T_VARIABLE) in /home/wesmartify/public_html/snskhanresources.com/molpayresponce.php on line 32
+[17-Dec-2018 15:26:50 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '$status' (T_VARIABLE) in /home/wesmartify/public_html/snskhanresources.com/molpayresponce.php on line 32
+[17-Dec-2018 16:49:15 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 476
+[17-Dec-2018 16:49:19 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 476
+[17-Dec-2018 16:49:23 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 476
+[17-Dec-2018 16:49:42 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 476
+[17-Dec-2018 17:14:47 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 477
+[17-Dec-2018 17:14:49 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 477
+[17-Dec-2018 17:18:38 Asia/Kuala_Lumpur] PHP Warning:  fopen(testa/pdf/test.pdf): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 406
+[17-Dec-2018 17:18:38 Asia/Kuala_Lumpur] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 407
+[17-Dec-2018 17:18:38 Asia/Kuala_Lumpur] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 408
+[17-Dec-2018 17:18:43 Asia/Kuala_Lumpur] PHP Warning:  fopen(testa/pdf/test.pdf): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 406
+[17-Dec-2018 17:18:43 Asia/Kuala_Lumpur] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 407
+[17-Dec-2018 17:18:43 Asia/Kuala_Lumpur] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 408
+[17-Dec-2018 17:25:00 Asia/Kuala_Lumpur] PHP Warning:  filesize(): stat failed for https://www.cpp.edu/~jcmcgarvey/513_2016/ASmarterWaytoLearnJavaScript.pdf in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 424
+[17-Dec-2018 17:29:00 Asia/Kuala_Lumpur] PHP Warning:  filesize(): stat failed for https://www.cpp.edu/~jcmcgarvey/513_2016/ASmarterWaytoLearnJavaScript.pdf in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 426
+[17-Dec-2018 17:29:28 Asia/Kuala_Lumpur] PHP Warning:  filesize(): stat failed for https://www.cpp.edu/~jcmcgarvey/513_2016/ASmarterWaytoLearnJavaScript.pdf in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 426
+[17-Dec-2018 17:30:25 Asia/Kuala_Lumpur] PHP Warning:  filesize(): stat failed for https://www.cpp.edu/~jcmcgarvey/513_2016/ASmarterWaytoLearnJavaScript.pdf in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 426
+[17-Dec-2018 18:17:19 Asia/Kuala_Lumpur] PHP Warning:  filesize(): stat failed for data:application/pdf;base64,JVBERi0xLjMKMyAwIG9iago8PC9UeXBlIC9QYWdlCi9QYXJlbnQgMSAwIFIKL1Jlc291cmNlcyAyIDAgUgovTWVkaWFCb3ggWzAgMCA1OTUuMjggODQxLjg5XQovQ29udGVudHMgNCAwIFIKPj4KZW5kb2JqCjQgMCBvYmoKPDwvTGVuZ3RoIDQ4ODM+PgpzdHJlYW0KMC4yMCB3CjAgRwpxIDEyMC4wMCAwIDAgODAuMDAgNDAuMDAgNzExLjg5IGNtIC9JMCBEbyBRCkJUCi9GMTAgMTIgVGYKMTMuNzk5OTk5OTk5OTk5OTk5IFRMCjAgZwo0MC4wMCA2OTYuODkgVGQKKFMmU0tIQU5SRVNPVVJDRVMpIFRqCkVUCkJUCi9GMTAgMTAgVGYKMTEuNSBUTAowIGcKNDAuMDAgNjg0Ljg5IFRkCihFTUFJTCkgVGoKRVQKQlQKL0Y5IDEwIFRmCjExLjUgVEwKMCBnCjgwLjAwIDY4NC44OSBUZAooc3VwcG9ydEBzbnNraGFucmVzb3VyY2VzLmNvbSkgVGoKRVQKQlQKL0YxMCAxMCBUZgoxMS41IFRMCjAgZwo0MC4wMCA2NzIuODkgVGQKKFBob25lOiApIFRqCkVUCkJUCi9GOSAxMCBUZgoxMS41IFRMCjAgZwo4MC4wMCA2NzIuODkgVGQKKCs5MTgxODk0NTc4NDUpIFRqCkVUCkJUCi9GMTAgMTAgVGYKMTEuNSBUTAowIGcKNDAwLjAwIDc3OS44OSBUZAooSU5WT0lDRSBOTzogKSBUagpFVApCVAovRjkgMTAgVGYKMTEuNSBUTAowIGcKNDgwLjAwIDc3OS44OSBUZAooSU5WLTEyMDE1MikgVGoKRVQKQlQKL0YxMCAxMCBUZgoxMS41IFRMCjAgZwo0MDAuMDAgNzY3Ljg5IFRkCihJTlZPSUNFIERhdGU6ICkg in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 425
+[17-Dec-2018 18:45:31 Asia/Kuala_Lumpur] PHP Warning:  basename() expects parameter 1 to be string, array given in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 426
+[17-Dec-2018 18:45:31 Asia/Kuala_Lumpur] PHP Warning:  basename() expects parameter 1 to be string, array given in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 427
+[17-Dec-2018 18:45:31 Asia/Kuala_Lumpur] PHP Warning:  basename() expects parameter 1 to be string, array given in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 428
+[17-Dec-2018 18:45:31 Asia/Kuala_Lumpur] PHP Warning:  filesize() expects parameter 1 to be a valid path, array given in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 428
+[17-Dec-2018 18:49:29 Asia/Kuala_Lumpur] PHP Warning:  filesize(): stat failed for https://firebasestorage.googleapis.com/v0/b/planapp-372b1.appspot.com/o/invoice.pdf?alt=media&amp;token=6d8b0929-ea90-4911-aa7b-90997a427e1b in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 428
+[17-Dec-2018 18:50:21 Asia/Kuala_Lumpur] PHP Warning:  filesize(): stat failed for https://firebasestorage.googleapis.com/v0/b/planapp-372b1.appspot.com/o/invoice.pdf?alt=media&amp;token=6d8b0929-ea90-4911-aa7b-90997a427e1b in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 425
+[17-Dec-2018 18:50:23 Asia/Kuala_Lumpur] PHP Warning:  filesize(): stat failed for https://firebasestorage.googleapis.com/v0/b/planapp-372b1.appspot.com/o/invoice.pdf?alt=media&amp;token=6d8b0929-ea90-4911-aa7b-90997a427e1b in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 425
+[17-Dec-2018 18:50:24 Asia/Kuala_Lumpur] PHP Warning:  filesize(): stat failed for https://firebasestorage.googleapis.com/v0/b/planapp-372b1.appspot.com/o/invoice.pdf?alt=media&amp;token=6d8b0929-ea90-4911-aa7b-90997a427e1b in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 425
+[17-Dec-2018 18:56:53 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 449
+[17-Dec-2018 18:57:03 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 449
+[17-Dec-2018 18:57:07 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 449
+[17-Dec-2018 18:57:32 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 449
+[17-Dec-2018 18:57:34 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 449
+[19-Dec-2018 14:27:18 Asia/Kuala_Lumpur] PHP Warning:  filesize(): stat failed for data:application/pdf;base64,JVBERi0xLjMKMyAwIG9iago8PC9UeXBlIC9QYWdlCi9QYXJlbnQgMSAwIFIKL1Jlc291cmNlcyAyIDAgUgovTWVkaWFCb3ggWzAgMCA1OTUuMjggODQxLjg5XQovQ29udGVudHMgNCAwIFIKPj4KZW5kb2JqCjQgMCBvYmoKPDwvTGVuZ3RoIDM4ODg+PgpzdHJlYW0KMC4yMCB3CjAgRwpxIDEyMC4wMCAwIDAgODAuMDAgNDAuMDAgNzExLjg5IGNtIC9JMCBEbyBRCkJUCi9GMTAgMTIgVGYKMTMuNzk5OTk5OTk5OTk5OTk5IFRMCjAgZwo0MC4wMCA2OTYuODkgVGQKKFMmU0tIQU5SRVNPVVJDRVMpIFRqCkVUCkJUCi9GMTAgMTAgVGYKMTEuNSBUTAowIGcKNDAuMDAgNjg0Ljg5IFRkCihFTUFJTCkgVGoKRVQKQlQKL0Y5IDEwIFRmCjExLjUgVEwKMCBnCjgwLjAwIDY4NC44OSBUZAooc3VwcG9ydEBzbnNraGFucmVzb3VyY2VzLmNvbSkgVGoKRVQKQlQKL0YxMCAxMCBUZgoxMS41IFRMCjAgZwo0MC4wMCA2NzIuODkgVGQKKFBob25lOiApIFRqCkVUCkJUCi9GOSAxMCBUZgoxMS41IFRMCjAgZwo4MC4wMCA2NzIuODkgVGQKKCs5MTgxODk0NTc4NDUpIFRqCkVUCkJUCi9GMTAgMTAgVGYKMTEuNSBUTAowIGcKNDAwLjAwIDc3OS44OSBUZAooSU5WT0lDRSBOTzogKSBUagpFVApCVAovRjkgMTAgVGYKMTEuNSBUTAowIGcKNDgwLjAwIDc3OS44OSBUZAooSU5WLTEyMDE1MikgVGoKRVQKQlQKL0YxMCAxMCBUZgoxMS41IFRMCjAgZwo0MDAuMDAgNzY3Ljg5IFRkCihJTlZPSUNFIERhdGU6ICkg in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 429
+[19-Dec-2018 14:27:21 Asia/Kuala_Lumpur] PHP Warning:  filesize(): stat failed for data:application/pdf;base64,JVBERi0xLjMKMyAwIG9iago8PC9UeXBlIC9QYWdlCi9QYXJlbnQgMSAwIFIKL1Jlc291cmNlcyAyIDAgUgovTWVkaWFCb3ggWzAgMCA1OTUuMjggODQxLjg5XQovQ29udGVudHMgNCAwIFIKPj4KZW5kb2JqCjQgMCBvYmoKPDwvTGVuZ3RoIDM4ODg+PgpzdHJlYW0KMC4yMCB3CjAgRwpxIDEyMC4wMCAwIDAgODAuMDAgNDAuMDAgNzExLjg5IGNtIC9JMCBEbyBRCkJUCi9GMTAgMTIgVGYKMTMuNzk5OTk5OTk5OTk5OTk5IFRMCjAgZwo0MC4wMCA2OTYuODkgVGQKKFMmU0tIQU5SRVNPVVJDRVMpIFRqCkVUCkJUCi9GMTAgMTAgVGYKMTEuNSBUTAowIGcKNDAuMDAgNjg0Ljg5IFRkCihFTUFJTCkgVGoKRVQKQlQKL0Y5IDEwIFRmCjExLjUgVEwKMCBnCjgwLjAwIDY4NC44OSBUZAooc3VwcG9ydEBzbnNraGFucmVzb3VyY2VzLmNvbSkgVGoKRVQKQlQKL0YxMCAxMCBUZgoxMS41IFRMCjAgZwo0MC4wMCA2NzIuODkgVGQKKFBob25lOiApIFRqCkVUCkJUCi9GOSAxMCBUZgoxMS41IFRMCjAgZwo4MC4wMCA2NzIuODkgVGQKKCs5MTgxODk0NTc4NDUpIFRqCkVUCkJUCi9GMTAgMTAgVGYKMTEuNSBUTAowIGcKNDAwLjAwIDc3OS44OSBUZAooSU5WT0lDRSBOTzogKSBUagpFVApCVAovRjkgMTAgVGYKMTEuNSBUTAowIGcKNDgwLjAwIDc3OS44OSBUZAooSU5WLTEyMDE1MikgVGoKRVQKQlQKL0YxMCAxMCBUZgoxMS41IFRMCjAgZwo0MDAuMDAgNzY3Ljg5IFRkCihJTlZPSUNFIERhdGU6ICkg in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 429
+[19-Dec-2018 14:29:35 Asia/Kuala_Lumpur] PHP Warning:  filesize(): stat failed for https://www.cpp.edu/~jcmcgarvey/513_2016/ASmarterWaytoLearnJavaScript.pdf in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 429
+[19-Dec-2018 14:34:39 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to undefined function addStringAttachment() in /home/wesmartify/public_html/snskhanresources.com/testemail.php:450
+Stack trace:
+#0 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 450
+[19-Dec-2018 14:34:58 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to undefined function addStringAttachment() in /home/wesmartify/public_html/snskhanresources.com/testemail.php:450
+Stack trace:
+#0 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 450
+[19-Dec-2018 14:37:25 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/wesmartify/public_html/snskhanresources.com/testemail.php:402
+Stack trace:
+#0 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 402
+[19-Dec-2018 14:37:30 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/wesmartify/public_html/snskhanresources.com/testemail.php:402
+Stack trace:
+#0 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 402
+[19-Dec-2018 14:38:30 Asia/Kuala_Lumpur] PHP Warning:  require(path/to/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 405
+[19-Dec-2018 14:38:30 Asia/Kuala_Lumpur] PHP Warning:  require(path/to/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 405
+[19-Dec-2018 14:38:30 Asia/Kuala_Lumpur] PHP Fatal error:  require(): Failed opening required 'path/to/PHPMailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 405
+[19-Dec-2018 14:40:26 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 465
+[19-Dec-2018 14:40:28 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 465
+[19-Dec-2018 14:43:09 Asia/Kuala_Lumpur] PHP Warning:  file_get_contents(attachment.zip): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 419
+[19-Dec-2018 14:45:00 Asia/Kuala_Lumpur] PHP Warning:  require(PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 404
+[19-Dec-2018 14:45:00 Asia/Kuala_Lumpur] PHP Warning:  require(PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 404
+[19-Dec-2018 14:45:00 Asia/Kuala_Lumpur] PHP Fatal error:  require(): Failed opening required 'PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 404
+[19-Dec-2018 14:48:41 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 439
+[19-Dec-2018 14:48:43 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 439
+[19-Dec-2018 14:49:00 Asia/Kuala_Lumpur] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 409
+[19-Dec-2018 14:49:00 Asia/Kuala_Lumpur] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 409
+[19-Dec-2018 14:49:00 Asia/Kuala_Lumpur] PHP Fatal error:  require(): Failed opening required '../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 409
+[19-Dec-2018 14:53:21 Asia/Kuala_Lumpur] PHP Warning:  move_uploaded_file(/home/wesmartify/public_html/snskhanresources.com/uploads/test.pdf): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/upload.php on line 4
+[19-Dec-2018 14:53:21 Asia/Kuala_Lumpur] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpYFcWJy' to '/home/wesmartify/public_html/snskhanresources.com/uploads/test.pdf' in /home/wesmartify/public_html/snskhanresources.com/upload.php on line 4
+[19-Dec-2018 14:56:20 Asia/Kuala_Lumpur] PHP Warning:  move_uploaded_file(/home/wesmartify/public_html/snskhanresources.com/uploads/test.pdf): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/upload.php on line 4
+[19-Dec-2018 14:56:20 Asia/Kuala_Lumpur] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php6wvmEF' to '/home/wesmartify/public_html/snskhanresources.com/uploads/test.pdf' in /home/wesmartify/public_html/snskhanresources.com/upload.php on line 4
+[19-Dec-2018 14:59:55 Asia/Kuala_Lumpur] PHP Warning:  move_uploaded_file(/home/wesmartify/public_html/snskhanresources.com/uploads/test.pdf): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/upload.php on line 4
+[19-Dec-2018 14:59:55 Asia/Kuala_Lumpur] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php3AlSsZ' to '/home/wesmartify/public_html/snskhanresources.com/uploads/test.pdf' in /home/wesmartify/public_html/snskhanresources.com/upload.php on line 4
+[19-Dec-2018 15:03:30 Asia/Kuala_Lumpur] PHP Warning:  move_uploaded_file(/home/wesmartify/public_html/snskhanresources.com/uploads/test.pdf): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/upload.php on line 4
+[19-Dec-2018 15:03:30 Asia/Kuala_Lumpur] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phppxgns0' to '/home/wesmartify/public_html/snskhanresources.com/uploads/test.pdf' in /home/wesmartify/public_html/snskhanresources.com/upload.php on line 4
+[19-Dec-2018 15:10:25 Asia/Kuala_Lumpur] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 415
+[19-Dec-2018 15:10:25 Asia/Kuala_Lumpur] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 415
+[19-Dec-2018 15:10:25 Asia/Kuala_Lumpur] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 415
+[19-Dec-2018 15:15:31 Asia/Kuala_Lumpur] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 409
+[19-Dec-2018 15:15:31 Asia/Kuala_Lumpur] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 409
+[19-Dec-2018 15:15:56 Asia/Kuala_Lumpur] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 415
+[19-Dec-2018 15:15:56 Asia/Kuala_Lumpur] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 415
+[19-Dec-2018 15:40:43 Asia/Kuala_Lumpur] PHP Warning:  file_get_contents(attachment.zip): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 422
+[19-Dec-2018 15:46:54 Asia/Kuala_Lumpur] PHP Warning:  require(/fpd/fpdf.php): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 409
+[19-Dec-2018 15:46:54 Asia/Kuala_Lumpur] PHP Warning:  require(/fpd/fpdf.php): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 409
+[19-Dec-2018 15:46:54 Asia/Kuala_Lumpur] PHP Fatal error:  require(): Failed opening required '/fpd/fpdf.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 409
+[19-Dec-2018 15:47:15 Asia/Kuala_Lumpur] PHP Warning:  require(/fpd/fpdf.php): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 409
+[19-Dec-2018 15:47:15 Asia/Kuala_Lumpur] PHP Warning:  require(/fpd/fpdf.php): failed to open stream: No such file or directory in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 409
+[19-Dec-2018 15:47:15 Asia/Kuala_Lumpur] PHP Fatal error:  require(): Failed opening required '/fpd/fpdf.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 409
+[19-Dec-2018 15:59:28 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/wesmartify/public_html/snskhanresources.com/testemail.php:403
+Stack trace:
+#0 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 403
+[19-Dec-2018 17:48:32 Asia/Kuala_Lumpur] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wesmartify/public_html/snskhanresources.com/testemail.php:1) in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 404
+[19-Dec-2018 17:49:10 Asia/Kuala_Lumpur] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wesmartify/public_html/snskhanresources.com/upload.php:1) in /home/wesmartify/public_html/snskhanresources.com/upload.php on line 2
+[19-Dec-2018 17:49:23 Asia/Kuala_Lumpur] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wesmartify/public_html/snskhanresources.com/upload.php:1) in /home/wesmartify/public_html/snskhanresources.com/upload.php on line 2
+[19-Dec-2018 17:59:57 Asia/Kuala_Lumpur] PHP Warning:  filesize(): stat failed for https://www.cpp.edu/~jcmcgarvey/513_2016/ASmarterWaytoLearnJavaScript.pdf in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 424
+[19-Dec-2018 18:02:06 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to undefined function save() in /home/wesmartify/public_html/snskhanresources.com/testemail.php:445
+Stack trace:
+#0 {main}
+  thrown in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 445
+[19-Dec-2018 18:03:20 Asia/Kuala_Lumpur] PHP Warning:  filesize(): stat failed for pdfjszip in /home/wesmartify/public_html/snskhanresources.com/testemail.php on line 424

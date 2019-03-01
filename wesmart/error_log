@@ -1,0 +1,77 @@
+[26-May-2018 00:26:59 Asia/Kuala_Lumpur] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wesmartify/public_html/saveOrder.php on line 2
+[26-May-2018 00:26:59 Asia/Kuala_Lumpur] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/wesmartify/public_html/saveOrder.php on line 2
+[26-May-2018 04:02:27 Asia/Kuala_Lumpur] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wesmartify/public_html/saveOrder.php on line 2
+[26-May-2018 04:02:27 Asia/Kuala_Lumpur] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/wesmartify/public_html/saveOrder.php on line 2
+[26-May-2018 04:06:11 Asia/Kuala_Lumpur] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wesmartify/public_html/saveOrder.php on line 2
+[26-May-2018 04:06:11 Asia/Kuala_Lumpur] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/wesmartify/public_html/saveOrder.php on line 2
+[26-May-2018 04:07:51 Asia/Kuala_Lumpur] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wesmartify/public_html/saveOrder.php on line 2
+[26-May-2018 04:07:51 Asia/Kuala_Lumpur] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/wesmartify/public_html/saveOrder.php on line 2
+[27-May-2018 01:33:29 Asia/Kuala_Lumpur] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wesmartify/public_html/saveOrder.php on line 2
+[27-May-2018 01:33:29 Asia/Kuala_Lumpur] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/wesmartify/public_html/saveOrder.php on line 2
+[27-May-2018 01:39:18 Asia/Kuala_Lumpur] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wesmartify/public_html/saveOrder.php on line 2
+[27-May-2018 01:39:18 Asia/Kuala_Lumpur] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/wesmartify/public_html/saveOrder.php on line 2
+[27-May-2018 01:41:00 Asia/Kuala_Lumpur] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wesmartify/public_html/saveOrder.php on line 2
+[27-May-2018 01:41:00 Asia/Kuala_Lumpur] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/wesmartify/public_html/saveOrder.php on line 2
+[28-May-2018 01:52:07 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected 'mysqli_close' (T_STRING), expecting ',' or ';' in /home/wesmartify/public_html/payment_api_resp.php on line 26
+[28-May-2018 01:53:36 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/wesmartify/public_html/payment_api_resp.php on line 26
+[28-May-2018 01:53:51 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/wesmartify/public_html/payment_api_resp.php on line 26
+[27-Nov-2018 18:01:23 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/wesmartify/public_html/database_connection.php:5
+Stack trace:
+#0 /home/wesmartify/public_html/database_connection.php(5): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/wesmartify/public_html/mobileapp.php(2): include('/home/wesmartif...')
+#2 {main}
+  thrown in /home/wesmartify/public_html/database_connection.php on line 5
+[27-Nov-2018 18:01:28 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/wesmartify/public_html/database_connection.php:5
+Stack trace:
+#0 /home/wesmartify/public_html/database_connection.php(5): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/wesmartify/public_html/mobileapp.php(2): include('/home/wesmartif...')
+#2 {main}
+  thrown in /home/wesmartify/public_html/database_connection.php on line 5
+[27-Nov-2018 18:01:37 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/wesmartify/public_html/database_connection.php:5
+Stack trace:
+#0 /home/wesmartify/public_html/database_connection.php(5): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/wesmartify/public_html/graphics.php(140): include('/home/wesmartif...')
+#2 {main}
+  thrown in /home/wesmartify/public_html/database_connection.php on line 5
+[27-Nov-2018 18:02:24 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/wesmartify/public_html/database_connection.php:5
+Stack trace:
+#0 /home/wesmartify/public_html/database_connection.php(5): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/wesmartify/public_html/wordpress.php(161): include('/home/wesmartif...')
+#2 {main}
+  thrown in /home/wesmartify/public_html/database_connection.php on line 5
+[27-Nov-2018 18:02:29 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/wesmartify/public_html/database_connection.php:5
+Stack trace:
+#0 /home/wesmartify/public_html/database_connection.php(5): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/wesmartify/public_html/softdev.php(2): include('/home/wesmartif...')
+#2 {main}
+  thrown in /home/wesmartify/public_html/database_connection.php on line 5
+[27-Nov-2018 18:02:38 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/wesmartify/public_html/database_connection.php:5
+Stack trace:
+#0 /home/wesmartify/public_html/database_connection.php(5): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/wesmartify/public_html/wordpress.php(161): include('/home/wesmartif...')
+#2 {main}
+  thrown in /home/wesmartify/public_html/database_connection.php on line 5
+[27-Nov-2018 18:02:46 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/wesmartify/public_html/database_connection.php:5
+Stack trace:
+#0 /home/wesmartify/public_html/database_connection.php(5): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/wesmartify/public_html/videoanimation.php(150): include('/home/wesmartif...')
+#2 {main}
+  thrown in /home/wesmartify/public_html/database_connection.php on line 5
+[27-Nov-2018 18:03:45 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/wesmartify/public_html/database_connection.php:5
+Stack trace:
+#0 /home/wesmartify/public_html/database_connection.php(5): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/wesmartify/public_html/mobileapp.php(2): include('/home/wesmartif...')
+#2 {main}
+  thrown in /home/wesmartify/public_html/database_connection.php on line 5
+[27-Nov-2018 18:03:55 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/wesmartify/public_html/database_connection.php:5
+Stack trace:
+#0 /home/wesmartify/public_html/database_connection.php(5): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/wesmartify/public_html/mobileapp.php(2): include('/home/wesmartif...')
+#2 {main}
+  thrown in /home/wesmartify/public_html/database_connection.php on line 5
+[27-Nov-2018 18:05:04 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/wesmartify/public_html/database_connection.php:5
+Stack trace:
+#0 /home/wesmartify/public_html/database_connection.php(5): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/wesmartify/public_html/card.php(152): include('/home/wesmartif...')
+#2 {main}
+  thrown in /home/wesmartify/public_html/database_connection.php on line 5
